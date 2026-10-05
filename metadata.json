@@ -1,0 +1,6 @@
+{
+  "name": "Matematika Pro - 5-8 Sinf Ta'lim Platformasi",
+  "description": "5-8 sinf o'quvchilari va o'qituvchilari uchun interaktiv matematika ta'lim platformasi, testlar, statistika va Kundalik integratsiyasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
